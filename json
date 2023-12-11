@@ -1,0 +1,127 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+      "category":"All Maps"
+    },{
+    "category":"Adventure"
+  },{
+    "category":"Minigame"
+  },{
+    "category":"Survival"
+  },{
+    "category":"Puzzle"
+  },{
+    "category":"Creation"
+  },{
+    "category":"RedStone"
+  }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name":"Ultimate Map Collection",
+      "category":"Adventure",
+      "image":"https://minecraft-master.com/wp-content/uploads/2020/08/TheHorrorHouse.jpeg",
+      "download":"https://firebasestorage.googleapis.com/v0/b/master-for-minecraft.appspot.com/o/maps%2Ffiles%2FTheHorrorHouse.mcworld?alt=media&token=5cd5fe1f-33e2-4370-8026-15e6ffed8cac",
+      "description":"Once you explored another new world and you came across a large house that seemed abandoned and rather strange. You decided to enter this spooky haunted house to see what is inside; When you enter, you realize that you are locked up and you will need to find a way to escape. But be careful, there are still some creatures inside.If you are easily frightened, then it is better to go through this map with friends.Then you can definitely overcome all the oddities and horrors in this house. Let's get started :)"
+    },{
+      "id":1,
+      "name":"Tree House with Pigs",
+      "category":"Adventure",
+      "image":"https://minecraft-master.com/wp-content/uploads/2020/07/TreeHouseWithPigs.png",
+      "download":"https://firebasestorage.googleapis.com/v0/b/master-for-minecraft.appspot.com/o/maps%2Ffiles%2FTreeHouseWithPigs.mcworld?alt=media&token=45698f3a-c7e5-4ff8-87fd-523291c8f9f5",
+      "description":"This map shows a cool house on a huge tree in the middle of a dense forest. The house is small but very functional. It has a lot of things that come in handy for survival and farming. There are also a lot of pigs on the map, tame them and take care of them to become a real farmer!"
+    },{
+      "id":1,
+      "name":"The Talking Bot",
+      "category":"Adventure",
+      "image":"https://minecraft-master.com/wp-content/uploads/2020/08/TheTalkingBot.jpeg",
+      "download":"https://firebasestorage.googleapis.com/v0/b/master-for-minecraft.appspot.com/o/maps%2Ffiles%2FTheTalkingBot.mcworld?alt=media&token=a69e5abb-d88c-450d-86c7-384a8af99422",
+      "description":"This map contains a bot with which you can chat and enjoy the simplest commands used on this map.There are several signs on the wall and you can choose which question to ask him. You can even offer him a drink with you and yes, then you get drunk for a little while so be careful haha.Install and try to chat with him. More maps with mini-games in the Master for Minecraft app!"
+    },{
+      "id":1,
+      "name":"Burning Animals",
+      "category":"Adventure",
+      "image":"https://minecraft-master.com/wp-content/uploads/2020/08/BurningAnimals.jpeg",
+      "download":"https://firebasestorage.googleapis.com/v0/b/master-for-minecraft.appspot.com/o/maps%2Ffiles%2FBurningAnimals.mcworld?alt=media&token=08bcb3c1-8dad-4b4d-a929-1c8d0e02d9b4",
+      "description":"Animal Burning is a survival mini-game to play with your friends and check who survives the longest, you can stay inside the wool animals that light up, and you have to find items by level that helped you stay alive. who survived finally wins the game!Even more collaborative games for friends in the Master for Minecraft app!"
+    },{
+      "id":1,
+      "name":"The Flash Parkour",
+      "category":"Adventure",
+      "image":"https://minecraft-master.com/wp-content/uploads/2020/07/TheFlashParkour.jpeg",
+      "download":"https://firebasestorage.googleapis.com/v0/b/master-for-minecraft.appspot.com/o/maps%2Ffiles%2FTheFlashParkour.mcworld?alt=media&token=167975e7-a5f7-4a49-91e4-c2de4c04951d",
+      "description":"Become the Flash. Accelerate your way through this difficult stage in an attempt to reach the end. Do you have what it takes to take on the role of Flash?Flash parkour will see you rush through a challenging parkour scene. You will need to use your speed and all your skills to conquer this card. Your speed will be tied to a bottle of extravaganza. Whenever you throw a bottle, you will be provided with insane speeds for a short period of time. This was done in order to prevent the player from moving insanely fast around the stage, which ultimately led to the fact that you did not have much control over yourself. This stage lasts approximately 15-30 minutes, depending on the skill level. There are many difficult areas just because of how difficult it is to jump accurately while being so fast. Good luck!"
+    },{
+      "id":1,
+      "name":"Deathrun By MCBG",
+      "category":"Adventure",
+      "image":"https://minecraft-master.com/wp-content/uploads/2020/07/DeathRunbyMCBG.jpeg",
+      "download":"https://firebasestorage.googleapis.com/v0/b/master-for-minecraft.appspot.com/o/maps%2Ffiles%2FDeathRunMCBG.mcworld?alt=media&token=7b86ebbb-a43b-41aa-a550-fef2e81b76bb",
+      "description":"This map includes 3 different game locations: End, Sea and Labs. Which location you get to is determined by the game in random order. End: 50%; Sea: 25%; Laboratories: 25%.The End subject course contains many pitfalls, including the maze, and is the shortest of the three courses.The Sea thematic course also includes traps such as a jump trap and a water droplet trap.The Laboratory thematic course includes a parkour segment and is the longest of the three courses.Pass them all and become a real profy parkour! Also, this card is perfect for playing with friends. Download, play and enjoy!"
+    },{
+      "id":1,
+      "name":"Parkour Skill Test",
+      "category":"Adventure",
+      "image":"https://minecraft-master.com/wp-content/uploads/2020/07/ParkourSkillTest.jpeg",
+      "download":"https://firebasestorage.googleapis.com/v0/b/master-for-minecraft.appspot.com/o/maps%2Ffiles%2FParkourSkillTest.mcworld?alt=media&token=204e1ea2-956e-4739-a0a3-405cb927ac55",
+      "description":"Want to test your parkour skills?Try this map and see if you can become an expert in parkour.Here you will encounter seven difficulty levels.It becomes more and more difficult with each stage.This card is used to test your parkour skills.This is where all the problems you might encounter on parkour maps are.The death counter simply keeps track of how many times you have failed.To reset the death counter, reload the map or simply make a copy.And you can find other parkour maps in the Master for Minecraft application!"
+    },{
+      "id":1,
+      "name":"EggWars V2",
+      "category":"Adventure",
+      "image":"https://minecraft-master.com/wp-content/uploads/2020/07/EggWarsV2.jpegv",
+      "download":"https://firebasestorage.googleapis.com/v0/b/master-for-minecraft.appspot.com/o/maps%2Ffiles%2FEggWarsV2.mcworld?alt=media&token=1665bf38-17d0-4dd0-b894-4ae9838e3f01",
+      "description":"EggWars is a PvP mini-game that can be played by 2 to 16 players. Each player will appear on the island, where he must protect his egg from destruction. And to win the game, they will have to destroy the eggs of their enemies. The egg is needed to respawn if you die.This game requires a minimum of 2 players and a maximum of 16 players.You will go to an island where you need to collect minerals from generators. You can then trade them with the villagers to get weapons, blocks, armor, and so on. You can also upgrade your generators so that they generate minerals faster.Your main goal is to protect the egg on your island. However, in order to win, you also need to lay down enemy eggs and kill them.At the end of the round, the map will be restored."
+    },{
+      "id":1,
+      "name":"Infinite Parkour",
+      "category":"Adventure",
+      "image":"https://minecraft-master.com/wp-content/uploads/2020/07/InfiniteParkour.jpeg",
+      "download":"https://firebasestorage.googleapis.com/v0/b/master-for-minecraft.appspot.com/o/maps%2Ffiles%2FInfiniteParkour.mcworld?alt=media&token=08323695-84a4-4c55-9aae-996ff08f9ab7",
+      "description":"Parkour maps are fun to play but they take a long time to manually build, so i created one that builds itself! Whenever you successfully complete a jump this system will randomly generate a new one for you, This means you can spend as long as you want jumping from block to block,There is an invisible armor stand that detects when a player is on the block, This then triggers a series of randomizer circuits. This determines where the next block will be placed. The block is placed and then the armor stand is put on the new block. Then the previous block is destroyed.In the future will add more possible jumps to make it more exciting, e.g. Ladders and Power-up blocks.There is also a scoreboard to count your number of successful jumps."
+    },{
+      "id":1,
+      "name":"Base Wars",
+      "category":"Adventure",
+      "image":"https://minecraft-master.com/wp-content/uploads/2020/07/BaseWars-1.png",
+      "download":"https://firebasestorage.googleapis.com/v0/b/master-for-minecraft.appspot.com/o/maps%2Ffiles%2FBaseWars.mcworld?alt=media&token=3c7613fe-c609-47fd-8228-eebeaaa5ce5f",
+      "description":"This is a map on which two teams fight each other the way they want, as the system of this map challenges them, because here it is impossible to spam any attack button. The goal of infinite lives is to completely destroy the opposing team’s base, not kill it.On this map, two teams of 1-4 members per team (if there are more, everything costs more as you need more) fight to completely destroy their enemy’s base, the only weapons that can destroy the base are cannons built by the team members using the resources provided.You also have an endless source of cannon water and obsidian to protect certain cannon parts. After all blocks except obsidian have been destroyed, the team with the remaining blocks wins. (except for command blocks too)."
+    },{
+      "id":1,
+      "name":"ArborCraft Games",
+      "category":"Adventure",
+      "image":"https://minecraft-master.com/wp-content/uploads/2020/07/ArborCraftGames.png",
+      "download":"https://firebasestorage.googleapis.com/v0/b/master-for-minecraft.appspot.com/o/maps%2Ffiles%2FArborCraftGames.mcworld?alt=media&token=44e6e774-d03a-4993-8d39-6d2bf8c9500e",
+      "description":"Have tons of fun in this unique collection of mini-games without mods or add-ons! only command blocks!This is a collection of three unique and fun PvP games, CampWars, WoolWars and SkyWars, with beautiful unique lobbies and maps for all three and a wonderful themed main lobby.This is a PvP game that supports four teams and as many players as you want! I recommend 2-4 players, but you can do as many as you want! Before each match, press Reset, then select your team. You will be taken to a beautiful huge wildlife map with two structures in the middle and replenishment of chests around the map with random replenishments.The map is ideal for large numbers of players and small numbers of players, it works with both 2 and 30 players and is versatile enough to accommodate all kinds of different play styles!The Wizarding Tower is another shop that searches for stars found in comets. These comets fall from the sky at specific locations and contain empty stars. You can buy magic items there, such as cows that grow leather, health boosters, elytra, ender pearls, a gust of wind that launches you into the air, and more!"
+    },{
+      "id":1,
+      "name":"SB The Secret Forest",
+      "category":"Adventure",
+      "image":"https://minecraft-master.com/wp-content/uploads/2019/10/sbthesecretforest.jpg",
+      "download":"https://firebasestorage.googleapis.com/v0/b/master-for-minecraft.appspot.com/o/maps%2Ffiles%2Fsbthesecretforest.mcworld?alt=media&token=53f1485d-0402-4274-8573-31d951aa54f4",
+      "description":"To get out of the mysterious forest, you have to solve riddles!version: 1.8.x,1.9.x,1.10.x,1.11.x"
+    }
+  ]
+}
